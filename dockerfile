@@ -1,2 +1,2 @@
-FROM vivek-kadu1982/webapp
+FROM ubuntu:trusty
 ADD . /var/www/html
