@@ -1,2 +1,2 @@
-FROM vivek-kadu1982/website
+FROM tcnksm/Dockerfile
 ADD . /var/www/html
