@@ -1,2 +1,2 @@
-FROM tcnksm/Dockerfile
+FROM hshar/webapp
 ADD . /var/www/html
